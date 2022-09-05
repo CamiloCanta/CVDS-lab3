@@ -104,7 +104,8 @@ public class Person {
      *
      *	@param id the identification Number to set
      */
-    public void setId(int id) { this.id = id;
+    public void setId(int id) {
+        this.id = id;
     }
 
     /**
